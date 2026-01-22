@@ -1,2 +1,6 @@
-# SubscriptionService
-Complete code for the SubscriptionService task - Testing Bias experiment
+---
+
+## Estudiante
+
+Nombre: Joffre  
+Apellidos: Gomez Quinaluisa
